@@ -1,6 +1,6 @@
 // Variáveis para armazenar o nome e a XP do herói
 let nomeHeroi = "He-Man";
-let xpHeroi = 9950; // Você pode mudar a XP aqui para testar diferentes níveis!
+let xpHeroi = 9940; // Você pode mudar a XP aqui para testar diferentes níveis!
 
 // Variável para armazenar o nível do herói
 let nivelHeroi;
